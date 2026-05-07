@@ -1,3 +1,6 @@
+                                                     Vansh Portfolio
+
+
 This is a futuristic one-page developer portfolio inspired by a cyberpunk / hacker aesthetic.
 It features a Matrix-style digital rain background, dynamic typing animations, and an interactive UI that adapts between desktop and mobile.
 The portfolio is designed to be visually impressive while still being practical for recruiters and collaborators.
